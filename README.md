@@ -1,0 +1,1 @@
+#Odin Recipes This project is a recipe website created as part of the Odin project. I will use this project to practice my HTML skills,including creating webpages, adding images, creating links, and organizing files. I will also practice using Git and Github and manage my project
